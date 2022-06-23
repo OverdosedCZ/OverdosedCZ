@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **random stuff**
 
-- 🌱 I’m currently learning **C#, C++ and Python**
+- 🌱 I’m currently learning **Python, CSS and HTML**
 
 - 📫 How to reach me **lolrenamo@gmail.com**
 
