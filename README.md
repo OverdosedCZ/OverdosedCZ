@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overdosedcz" alt="overdosedcz" /> </p>
 
-- 🔭 I’m currently working on **random stuff**
+- 🔭 I’m currently working on **getting better at Java**
 
-- 🌱 I’m currently learning **Python, CSS and HTML**
+- 🌱 I’m currently learning **Java, C++, C#**
 
 - 📫 How to reach me **lolrenamo@gmail.com**
 
-- ⚡ Fun fact **iam not a good programmator, iam just a good googler.**
+- ⚡ Fun fact **get rekt**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
